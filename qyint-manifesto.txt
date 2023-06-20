@@ -1,0 +1,138 @@
+                        ____                           █████▄▄▄
+                      ▄███████▄                       ███████████▄
+                    ▄████████████▄                   ██████████████▄
+                    ███████████████▄                ███████████████▀
+                     ████████████████▄             ███████████████▀
+                       ▀█▀▀▀██████████▌     ▄     ▄███████████████
+                            ████████████▄▄███▌    ███████████████
+                          ▄██████████████████▌   ███████████████
+                         ▐███████████████████    ███████████████
+                          █████████████████      ██████████████
+                           ███████████████       ██████████████
+                            ▀███████████▀         ████████████▌
+                               ▀██████▀           ▀███████████
+                                              ▄▄██████████████
+                                         ▄▄█████████████████████
+        ██▄                            ▄██████████████████████████▄
+        ████▄▄                        █████████████████████████████▄
+         ██████▄                     ▄██████████████████████████████
+          ▀███████▄▄              ▄███████████████████▀▀    ▀▀██████
+            ██████████▄▄▄      ▄███████████████████▀           ▀▀▀▀
+             ▀████████████████████████████████████
+                ████████████████████████████████▀
+                  ▀███████████████████████████▀
+                     ▀▀▀███████████████████▀
+                              ▀▀▀▀▀▀
+
++-----------+
+| Q Y I N T |
+| MANIFESTO |
++-----------+
+ *20.06.2023
+
+OFFICIAL COPY OF THE MANIFESTO
+    CHANGES:
+        12.06.2023
+            - FIXED TYPOS AND ADDED MEMBERSHIP
+            - ADDED RULE AGAINST REACTIONARY IDEOLOGIES
+            - ADDED RULE AGAINST BLACK-AND-WHITE THINKING
+            - FIXED TYPOS
+        13.06.2023
+            - FIXED TYPOS
+            - WORDING
+            - ADDED ADMINISTRATORS NAMES
+        16.06.2023
+            - CHANGED MEMBERSHIP
+        18.06.2023
+            - DATES CHANGED
+            - TEMPORARY APPROVAL BY ANARCHIST FEDERATION
+            - FIXED TYPOS
+            - CHANGED ORDER OF CHAPTERS
+        20.06.2023
+            - APPROVAL BY GENERAL ASSEMBLY
+
+Privacy and Freedom on the Internet are no longer taken for granted in our capitalistic Society, neither is Democracy.
+Spying on Users, restricting their Freedom and making Decisions for them is simply more profitable for the Owners.
+But we imagine a World without a Profit Incentive and with a truly democratic System - and we will have to build it ourselves.
+This Revolution has to take place on the Internet aswell.
+
++---+
+| 1 | COPYLEFT
++---+
+The Qyint Community recognizes that proprietary Software and restrictive Licensing Models hinder the Freedom and Autonomy of Users.
+We believe that everyone should have the Right to modify and distribute Software freely.
+We think that Education - even in the Tech Space - should be available to everyone.
+Transparency is important for Trust and Truth.
+This is not just limited to Software, but also Hardware and Media.
+Intellectual Property, Copyright and Restrictions only limit Progress and the Freedom of Users.
+Privacy and Security are Human Rights.
+We reject any and all Forms of Surveillance from States and Corporations imposed on us.
+The Data Theft and Security Breaches only serve to exploit and control us.
+Labeling this as a mere "Conspiracy Theory" is a massive Oversimplification.
+It fails to recognize Class War and the tangible Evidence and Incentive to the Practice.
+There is enough Documentation proving that the Owning Class is not our Friend.
+Mark Zuckerbergs Statement about People who voluntarily handed over their Data to Facebook, calling them "dumb Fucks", cant highlight it more.
+Please dont be an Idiot: do not give in to their War against our Human Rights.
+All Projects developed within the Qyint Community shall adopt the GNU GPL v3 as their License, as it aligns with our Values and Views.
+
++---+
+| 2 | DEMOCRACY
++---+
+We, the People of the global West, seem to take "Democracy" for granted.
+But what we see is not a Democracy. While our Government may be democratic, the entire Economy is not.
+You do not have a single Word to say when it comes to your Workplace, nor what happens with the finished Product.
+We see the Rich getting Richer while more Working Class Citizens have to starve out in the Streets.
+They cant just make a Company. Most Capitalists inherited their Wealth or stole it from others by Force.
+The entire Concept of "Laziness" or "working harder" is a lie. It serves to distract us from the Injustice and is very Ableist at that.
+And we would claim that even our Government is undemocratic.
+We elect them with their Promises into Parliament, but they end up doing the Opposite.
+This is because Government Officials are lobbied by big Corporations.
+After all, why shouldnt they? Its only profitable - and our Economic System is built on Profit.
+The Fights in Parliament serve to distract the People and to split them - "DIVIDE ET IMPERA!"
+A truly democratic System has to be built bottom-up and without a Profit Incentive.
+Democracy has to be present everywhere for a democratic System to be functional.
+We believe in Workplace Democracy, as well as Direct Democracy or Representative Systems.
+And we are a democratic Community.
+There are monthly General Assemblies, where all Members may discuss Policies, Problems and Wishes.
+Staff may invite People to the Community.
+Membership may be revoked by the General Assembly if the Actions of Members are counterrevolutionary or otherwise break the Rules.
+Promoting someone to the Position of Staff is voted on democratically.
+A General Assembly may also revert a Punishment, demote Staff, create or destroy democratic Services, etc.
+We think respectful Discussion and Debate are are essential to a functioning and transparent Democracy.
+Qyint Services are owned by the Administrators:
+    MI.SH
+    SLAKE
+    MINI
+Changes to them are made through the General Assembly.
+Repositories are owned by their Maintainer.
+You can make Changes through the General Assembly or by asking the Maintainer directly,
+however the Maintainer may decline.
+If the Maintainers Decisions no longer align with our Values, the Repository will no longer be a Part of Qyint.
+We try to build Services as transparent as possible.
+The General Assembly may also edit or entirely replace this Document, but any and all Changes shall not violate our Core Values.
+
++---+
+| 3 | REVOLUTION
++---+
+We believe in peaceful Revolution.
+By offering democratic Alternatives and making them as lucrative as possible, we can dismantle the opressive Structures.
+Of course, they will fight back and we will have to defend ourselves and our Freedom.
+Together, we will build a Future where Technology and Labor serve the common Good, not the Owning Class.
+Mutual Aid, the common Good, Transparency, Democracy and Freedom are the Values we fight for.
+
++---+
+| 4 | CONVERSATIONS
++---+
+We will always treat others with Respect.
+We will always be open to new Ideas.
+We will engage in constructive Criticism.
+We will not annoy others.
+We will not mislead anyone.
+We will respect the Boundaries of others.
+We will not advertise anything that does not correspond to our Values.
+We will not defend or promote reactionary Worldviews.
+We will avoid simplistic black-and-white Views.
+We will not share NSFW Content, unless it is an NSFW Channel/Tag.
+We will not spoiler anyone, or if possible, hide them ||like this||
+Most importantly, we have Common Sense.
+This is a Social Contract. By breaking the Rules, you violated the Terms and they no longer apply to you.
