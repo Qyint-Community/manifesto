@@ -32,6 +32,8 @@
 
 OFFICIAL COPY OF THE MANIFESTO
     CHANGES:
+        26.11.2023
+            - RECORDING IN VCS IS NOW AGAINST THE RULES
         12.06.2023
             - FIXED TYPOS AND ADDED MEMBERSHIP
             - ADDED RULE AGAINST REACTIONARY IDEOLOGIES
@@ -134,5 +136,6 @@ We will not defend or promote reactionary Worldviews.
 We will avoid simplistic black-and-white Views.
 We will not share NSFW Content, unless it is an NSFW Channel/Tag.
 We will not spoiler anyone, or if possible, hide them ||like this||
+We will not record anything in public VCs (only private channels with consent!)
 Most importantly, we have Common Sense.
 This is a Social Contract. By breaking the Rules, you violated the Terms and they no longer apply to you.
